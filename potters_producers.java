@@ -1,4 +1,4 @@
-public class sgjgarri_201504029 {
+public class potters_producers {
     // create objects of each potter, shelf and packer
     public static void main(String[] args) {
         Shelf shelf = new Shelf();
